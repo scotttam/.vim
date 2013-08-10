@@ -1,5 +1,5 @@
 # Installing VIM
------------------------------------------------------------------------
+
 ## Install MacVim
   - mvim to a bin directory
 
