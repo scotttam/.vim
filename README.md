@@ -3,28 +3,28 @@
 #### Install MacVim
   - mvim to a bin directory
 
-## Clone this repo
+#### Clone this repo
   - git clone git@github.com:scotttam/.vim.git
 
-## Make the ~/.vim/bundle directory
+#### Make the ~/.vim/bundle directory
   - mkdir ~/.vim/bundle
 
-## Symlink the ~/.vimrc
+#### Symlink the ~/.vimrc
   - ln -s ~/.vim/vimrc ~/.vimrc
 
-## Install Vundle
+#### Install Vundle
   - git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
-## Add rails.vim to your .vimrc
+#### Add rails.vim to your .vimrc
   -  https://github.com/tpope/vim-rails
 
-## Add vroom.vim to your .vimrc
+#### Add vroom.vim to your .vimrc
   -  https://github.com/skalnik/vim-vroom
 
-## Add solarized to your .vimrc
+#### Add solarized to your .vimrc
   -  https://github.com/altercation/vim-colors-solarized
 
-## Fire up vim and do a :BundleInstall
+#### Fire up vim and do a :BundleInstall
 
 # Using VIM for Rails
 -------------------------------------------------------------------------
