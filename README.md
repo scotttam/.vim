@@ -1,6 +1,6 @@
 # Installing VIM
 
-## Install MacVim
+### Install MacVim
   - mvim to a bin directory
 
 ## Clone this repo
