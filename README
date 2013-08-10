@@ -7,11 +7,9 @@
   - git clone git@github.com:scotttam/.vim.git
 
 ## Make the ~/.vim/bundle directory
-  - mkdir ~/.vim
   - mkdir ~/.vim/bundle
 
-## Create a vimrc and symlink it to ~/.vimrc
-  - touch ~/.vim/vimrc
+## Symlink the ~/.vimrc
   - ln -s ~/.vim/vimrc ~/.vimrc
 
 ## Install Vundle
