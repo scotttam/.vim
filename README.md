@@ -26,7 +26,7 @@
 
 #### Fire up vim and do a :BundleInstall
 
-# Using VIM for Rails
+## Using VIM for Rails
 -------------------------------------------------------------------------
 :help rails-navigation 
   - see the help text for the rails.vim plugin
