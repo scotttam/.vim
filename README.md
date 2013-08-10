@@ -48,4 +48,5 @@ ctrl-w-k jump to previous split pane in window
 :tab split - copy current buffer to a new tab
 
 gt - go to next tab
+
 gT - go to previous tab
