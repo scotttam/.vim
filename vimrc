@@ -32,3 +32,6 @@ filetype plugin indent on     " required!
 syntax enable
 set background=dark
 colorscheme solarized
+
+" NERDTree
+autocmd vimenter * NERDTree
