@@ -15,6 +15,7 @@ Bundle 'majutsushi/tagbar'
 Bundle 'altercation/vim-colors-solarized'
 Bundle 'tpope/vim-rails'
 Bundle 'skalnik/vim-vroom'
+Bundle 'scrooloose/nerdtree'
 
 " Github repos of the user 'vim-scripts'
 " => can omit the username part
