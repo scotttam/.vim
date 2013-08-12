@@ -34,4 +34,4 @@ set background=dark
 colorscheme solarized
 
 " NERDTree
-autocmd vimenter * NERDTree
+autocmd vimenter * if !argc() | NERDTree | endif
