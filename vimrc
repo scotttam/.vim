@@ -17,8 +17,7 @@ Bundle 'tpope/vim-rails'
 Bundle 'skalnik/vim-vroom'
 Bundle 'scrooloose/nerdtree'
 
-" Github repos of the user 'vim-scripts'
-" => can omit the username part
+" Github repos of the user 'vim-scripts' can omit the username part
 Bundle 'L9'
 Bundle 'FuzzyFinder'
 
@@ -30,8 +29,22 @@ filetype plugin indent on     " required!
 
 " Solarized
 syntax enable
-set background=dark
+let g:solarized_termcolors=256
+
+if has('gui_running')
+  set background=light
+else
+  set background=dark
+endif
+
 colorscheme solarized
 
 " NERDTree
 autocmd vimenter * if !argc() | NERDTree | endif
+let g:NERDTreeWinPos = "left"
+
+if has('gui_running')
+  set guifont=Courier\ New:h14
+endif
+
+
