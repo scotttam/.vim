@@ -80,6 +80,9 @@ vwd - visual select word then delete word
 :w play.rb - save current file as play.rb
 :r hat.rb - read in file hat.rb
 
+## NERDTree
+CTRL-w CTRL-w - jump between NERDTree and buffer
+
 
 ## Using VIM for Rails
 

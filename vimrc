@@ -16,6 +16,7 @@ Bundle 'altercation/vim-colors-solarized'
 Bundle 'tpope/vim-rails'
 Bundle 'skalnik/vim-vroom'
 Bundle 'scrooloose/nerdtree'
+Bundle 'moll/vim-node'
 
 " Github repos of the user 'vim-scripts' can omit the username part
 Bundle 'L9'
